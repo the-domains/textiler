@@ -1,0 +1,14 @@
+layout_spectrum: 0.543042752193287
+typography_spectrum: 0.8768597552552819
+color:
+  brandStrength: 0.6884189760312438
+  lightness: 0.37319913203828037
+  saturation: 0.7006002548150718
+  rhythmicContrast: 0.7771751147229224
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Textiler
